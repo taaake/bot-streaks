@@ -6,4 +6,4 @@ Uhq le bot les gars
 ![xd](https://i.imgur.com/OYEkI1V.png)
 
 # Video les meks
-![aok](https://youtu.be/0JN1fPFP3sM)
+![aok](https://www.youtube.com/watch?v=0JN1fPFP3sM)
