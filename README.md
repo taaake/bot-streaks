@@ -4,3 +4,6 @@ Streaks Bot TENSEI : je le mets à disposition, car "ZyGout", alias le dev GPT, 
 Uhq le bot les gars
 ![lol](https://i.imgur.com/MUITRxf.png)
 ![xd](https://i.imgur.com/OYEkI1V.png)
+
+# Video les meks
+![aok](https://youtu.be/0JN1fPFP3sM)
