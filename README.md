@@ -5,5 +5,5 @@ Uhq le bot les gars
 ![lol](https://i.imgur.com/MUITRxf.png)
 ![xd](https://i.imgur.com/OYEkI1V.png)
 
-# Vidéo les meks
-[![Video du bot](https://i.imgur.com/JwkCfKJ.png)](https://www.youtube.com/watch?v=OJN1FPP3sM)
+# Vidéo les mecs (clique sur l'image pour etre rediriger vers youteub)
+[![Video du bot](https://i.imgur.com/JwkCfKJ.png)](https://youtu.be/0JN1fPFP3sM)
