@@ -1,5 +1,5 @@
 # bot-streaks
-Streaks Bot TENSEI : je le mets à disposition, car "ZyGout", alias le dev GPT, se prend pour un vrai développeur alors que tout son bot est fait pas avec ChatGPT mais par ^^ et pour la db demerdez vous c pas compliquey
+Streaks Bot TENSEI : je le mets à disposition, car "ZyGout", pretent ne pas etre un dev GPT, mais je ne suis pas sur des infos ^^ et pour la db demerdez vous c pas compliquey
 
 Uhq le bot les gars
 ![lol](https://i.imgur.com/MUITRxf.png)
