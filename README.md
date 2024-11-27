@@ -1,5 +1,7 @@
 # bot-streaks
-Streaks Bot TENSEI : je le mets à disposition, car "ZyGout", pretent ne pas etre un dev GPT, mais je ne suis pas sur des infos ^^ et pour la db demerdez vous c pas compliquey
+Streaks Bot TENSEI : Je le mets à disposition, car "ZyGout" prétend ne pas être un dev GPT, mais jsuis pas sûr de ces informations ^^. Quant à la db, débrouillez-vous, c'est pas compliqué. Et N2S, si tu passes par là, mets une bonne raison pour le BL de TENSEI. Ce bot est destiné aux personnes qui ont besoin d'un bot de flamme 😊
+
+PS: Pour start le bot : npm start
 
 Uhq le bot les gars
 ![lol](https://i.imgur.com/MUITRxf.png)
